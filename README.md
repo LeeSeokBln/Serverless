@@ -1,6 +1,6 @@
 # [Serverless 기초 개념]
 
-# 람다 이론[Lambda]
+# 람다 이론 [Lambda]
 
 # DynamoDB 이론 [DynamoDB]
 
